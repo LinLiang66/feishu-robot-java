@@ -1,0 +1,30 @@
+POST http://localhost:8080/file/upload
+
+<> 2022-09-19T161755.200.json
+
+###
+
+POST http://localhost:8080/file/upload
+
+<> 2022-09-19T161745.200.json
+
+###
+
+POST https://localhost:8080/file/upload
+
+###
+
+POST https://localhost:8080/file/upload
+
+###
+
+POST http://localhost:8080/file/upload
+
+<> 2022-09-19T161614.200.json
+
+###
+
+POST http://localhost:8081/file/upload
+
+###
+
